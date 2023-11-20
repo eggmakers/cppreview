@@ -1,0 +1,3 @@
+name:hale
+sex:male
+age:18
